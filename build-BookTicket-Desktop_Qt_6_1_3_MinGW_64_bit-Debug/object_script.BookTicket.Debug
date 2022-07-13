@@ -1,0 +1,11 @@
+debug/book.o
+debug/cancel.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/mydb.o
+debug/qrc_source.o
+debug/moc_book.o
+debug/moc_cancel.o
+debug/moc_login.o
+debug/moc_mainwindow.o

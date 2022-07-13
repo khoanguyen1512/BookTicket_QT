@@ -1,0 +1,11 @@
+release/book.o
+release/cancel.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/mydb.o
+release/qrc_source.o
+release/moc_book.o
+release/moc_cancel.o
+release/moc_login.o
+release/moc_mainwindow.o
